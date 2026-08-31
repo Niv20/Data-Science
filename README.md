@@ -14,7 +14,7 @@ See the [project README](the-sound-of-silence/README.md) for the full write-up, 
 - [The Sound of Silence.pdf](the-sound-of-silence/The%20Sound%20of%20Silence.pdf) — exported PDF version
 - [Silence Culture Analysis.pptx](the-sound-of-silence/Silence%20Culture%20Analysis.pptx) — presentation
 
-### [homework/](homework/)
+### [homework](homework/)
 
 Coursework exercises covering core data science tools and techniques:
 
