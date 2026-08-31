@@ -2,7 +2,7 @@
 
 A collection of data science coursework and independent projects.
 
-## Projects
+___
 
 ### [The Sound of Silence](the-sound-of-silence/)
 
@@ -13,6 +13,8 @@ See the [project README](the-sound-of-silence/README.md) for the full write-up, 
 - [The Sound of Silence.ipynb](the-sound-of-silence/The%20Sound%20of%20Silence.ipynb) — main analysis notebook
 - [The Sound of Silence.pdf](the-sound-of-silence/The%20Sound%20of%20Silence.pdf) — exported PDF version
 - [Silence Culture Analysis.pptx](the-sound-of-silence/Silence%20Culture%20Analysis.pptx) — presentation
+
+___
 
 ### [homework](homework/)
 
